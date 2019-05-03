@@ -1,4 +1,4 @@
-# indiqme-informaões gerais
+# indiqme-informações gerais
 
 ## Mockup
 https://marvelapp.com/1b1ed8ag
