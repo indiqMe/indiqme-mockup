@@ -13,6 +13,18 @@ http://raffacabofrio-001-site5.dtempurl.com/swagger/
 https://trello.com/invite/indiqme/d9dbbe074bc5449b741e5f5bfe6798c5
 
 
-## Url Cidades/Estados Brasil (temporaria)
-https://gist.githubusercontent.com/letanure/3012978/raw/36fc21d9e2fc45c078e0e0e07cce3c81965db8f9/estados-cidades.json
+## API País, Estado e Cidades
 
+#### Pais
+http://api.londrinaweb.com.br/PUC/Paisesv2/0/1000
+#### Estados
+http://api.londrinaweb.com.br/PUC/Estados/br/0/10000
+#### Cidades
+http://api.londrinaweb.com.br/PUC/Cidades/sp/br/0/10000
+
+## API Stack Overflow Tecnologias
+
+#### DOCS
+https://api.stackexchange.com/docs/tags#page=1&order=desc&sort=popular&inname=java&filter=default&site=stackoverflow&run=true
+#### Request Exemplo
+https://api.stackexchange.com/2.2/tags?page=1&order=desc&sort=popular&inname=java&site=stackoverflow
