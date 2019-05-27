@@ -13,14 +13,13 @@ http://raffacabofrio-001-site5.dtempurl.com/swagger/
 https://trello.com/invite/indiqme/d9dbbe074bc5449b741e5f5bfe6798c5
 
 
-## API País, Estado e Cidades
-
-#### Pais
-http://api.londrinaweb.com.br/PUC/Paisesv2/0/1000
+## API IBGE - Estado e Cidades
+#### DOC
+https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_
 #### Estados
-http://api.londrinaweb.com.br/PUC/Estados/br/0/10000
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/
 #### Cidades
-http://api.londrinaweb.com.br/PUC/Cidades/sp/br/0/10000
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/municipios
 
 ## API Stack Overflow Tecnologias
 
